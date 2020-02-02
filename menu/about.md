@@ -1,18 +1,15 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: About Me
 ---
+I am student at EPFL finishing up her Msc in Data Science. 
+During my bachelors, I spent a year in Hong Kong at HKUST as an exchange student after which I spent 3 months a research intern at KAIST, where I was able to first learn about HCI research.
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Longterm I want to use data and computational methods to gain insight into human behavior, especially related to language accuisition and learning.
 
-### Getting Started
+To better to this I have dipped my feet in NLP, Computer Vision and pretty much every Data Science and ML buzzword out there.
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+Find out more about some of the projects I worked on [here].
 
-### Example Content
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
 
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
