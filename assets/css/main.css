@@ -20,7 +20,7 @@
 body {
   font-family: "Roboto";
   font-size: 18px;
-  color: white;
+  color: black;
   line-height: 1.75rem;
 }
 
@@ -42,9 +42,9 @@ h1 a {
   text-decoration: none;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display", sans-serif;
+  font-family: 'Poiret One', cursive;
   color: #333;
 }
 
@@ -102,7 +102,7 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: 'Poiret One', cursive;
 }
 
 .masthead a:hover {
