@@ -5,7 +5,7 @@ author: "Leonore Guillain"
 categories: journal
 tags: [boston, masterthesis]
 ---
-As much as I love Switzerland, I love visiting new places and experiencing new cultures.
+As much as I love Switzerland, I love visiting new places and experiencing life in foreign countries.
 Naturally, I long envisioned spending my final semester working on my master thesis project abroad.
 In the end, I was lucky to find a Professor in Boston willing to supervise me.
 
